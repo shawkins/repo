@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jun 21 19:41:36 EDT 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1624318896273
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo1.maven.org/maven2/.error=
+https\://repo1.maven.org/maven2/.lastUpdated=1624318895739
+https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/.error=Could not transfer artifact io.openmessaging.benchmark\:driver-rocketmq\:jar\:0.0.1-SNAPSHOT from/to github (https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*)\: Access denied to https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/io/openmessaging/benchmark/driver-rocketmq/0.0.1-SNAPSHOT/driver-rocketmq-0.0.1-SNAPSHOT.jar. Error code 401, 
+@default-github-https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/.lastUpdated=1624318895835

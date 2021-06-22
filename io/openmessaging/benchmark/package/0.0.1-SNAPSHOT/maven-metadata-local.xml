@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.openmessaging.benchmark</groupId>
+  <artifactId>package</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20210622015743</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>src</classifier>
+        <extension>tar.gz</extension>
+        <value>0.0.1-SNAPSHOT</value>
+        <updated>20210622015743</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>bin</classifier>
+        <extension>tar.gz</extension>
+        <value>0.0.1-SNAPSHOT</value>
+        <updated>20210622015743</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-SNAPSHOT</value>
+        <updated>20210622015743</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
