@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jun 21 21:57:34 EDT 2021
+#Mon Jun 21 22:04:05 EDT 2021
+driver-rocketmq-0.0.1-SNAPSHOT.jar>shawkins-snapshot=
+driver-rocketmq-0.0.1-SNAPSHOT.pom>shawkins-snapshot=
 driver-rocketmq-0.0.1-SNAPSHOT.pom>=
 driver-rocketmq-0.0.1-SNAPSHOT.jar>=

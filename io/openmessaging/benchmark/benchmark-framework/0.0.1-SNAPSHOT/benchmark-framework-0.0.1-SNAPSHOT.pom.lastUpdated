@@ -1,14 +1,11 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jun 21 19:37:14 EDT 2021
+#Mon Jun 21 22:01:59 EDT 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1624327318039
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1624327318568
 https\://repository.apache.org/content/groups/snapshots/.error=
 https\://oss.sonatype.org/content/repositories/snapshots/.error=
-https\://repo1.maven.org/maven2/.error=
+https\://repository.jboss.org/nexus/content/groups/developer/.lastUpdated=1624327319046
 https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1624327317817
 https\://repository.jboss.org/nexus/content/groups/developer/.error=
-https\://repo1.maven.org/maven2/.lastUpdated=1624318608495
-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1624318607934
-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1624318608190
-https\://repository.jboss.org/nexus/content/groups/developer/.lastUpdated=1624318608432
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1624318607845
-https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/.error=Could not transfer artifact io.openmessaging.benchmark\:benchmark-framework\:pom\:0.0.1-SNAPSHOT from/to github (https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*)\: Authentication failed for https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/io/openmessaging/benchmark/benchmark-framework/0.0.1-SNAPSHOT/benchmark-framework-0.0.1-SNAPSHOT.pom 401 Unauthorized
-@default-github-https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/.lastUpdated=1624318634965
+https\://raw.githubusercontent.com/shawkins/repo/master/.lastUpdated=1624327319549

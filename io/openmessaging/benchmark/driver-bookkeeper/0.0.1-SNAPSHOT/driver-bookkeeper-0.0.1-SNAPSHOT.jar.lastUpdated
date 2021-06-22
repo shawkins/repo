@@ -1,8 +1,11 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jun 21 19:41:36 EDT 2021
-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1624318896273
+#Mon Jun 21 22:02:24 EDT 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1624327340890
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1624327342104
+https\://repository.apache.org/content/groups/snapshots/.error=
 https\://oss.sonatype.org/content/repositories/snapshots/.error=
-https\://repo1.maven.org/maven2/.error=
-https\://repo1.maven.org/maven2/.lastUpdated=1624318895740
-https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/.error=Could not transfer artifact io.openmessaging.benchmark\:driver-bookkeeper\:jar\:0.0.1-SNAPSHOT from/to github (https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*)\: Access denied to https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/io/openmessaging/benchmark/driver-bookkeeper/0.0.1-SNAPSHOT/driver-bookkeeper-0.0.1-SNAPSHOT.jar. Error code 401, 
-@default-github-https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/.lastUpdated=1624318895836
+https\://repository.jboss.org/nexus/content/groups/developer/.lastUpdated=1624327343107
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1624327340613
+https\://repository.jboss.org/nexus/content/groups/developer/.error=
+https\://raw.githubusercontent.com/shawkins/repo/master/.lastUpdated=1624327344109
