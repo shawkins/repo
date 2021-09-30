@@ -1,6 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jun 21 22:04:07 EDT 2021
+#Thu Sep 30 14:13:42 CDT 2021
 driver-nats-streaming-0.0.1-SNAPSHOT.pom>=
 driver-nats-streaming-0.0.1-SNAPSHOT.jar>=
-driver-nats-streaming-0.0.1-SNAPSHOT.jar>shawkins-snapshot=
-driver-nats-streaming-0.0.1-SNAPSHOT.pom>shawkins-snapshot=
