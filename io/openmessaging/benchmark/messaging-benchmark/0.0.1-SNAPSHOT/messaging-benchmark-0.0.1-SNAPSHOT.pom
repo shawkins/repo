@@ -59,7 +59,13 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<bookkeeper.version>4.7.0</bookkeeper.version>
 	</properties>
-
+    
+    <scm>
+        <connection>scm:git:git@github.com:bf2fc6cc711aee1a0c2a/openmessaging-benchmark.git</connection>
+        <developerConnection>scm:git:git@github.com:bf2fc6cc711aee1a0c2a/openmessaging-benchmark.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+    
 	<build>
 		<plugins>
 			<plugin>
@@ -139,4 +145,11 @@
 		</dependencies>
 	</dependencyManagement>
 
+    <distributionManagement>
+      <repository>
+        <id>github</id>
+        <name>GitHub Packages</name>
+        <url> https://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/openmessaging-benchmark/</url>
+      </repository>
+    </distributionManagement>
 </project>
