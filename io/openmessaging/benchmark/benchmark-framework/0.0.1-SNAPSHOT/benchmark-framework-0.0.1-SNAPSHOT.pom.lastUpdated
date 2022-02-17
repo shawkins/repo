@@ -1,11 +1,11 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jun 21 22:01:59 EDT 2021
-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1624327318039
-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1624327318568
+#Mon Jun 21 22:11:41 EDT 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1624327900203
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1624327900684
 https\://repository.apache.org/content/groups/snapshots/.error=
 https\://oss.sonatype.org/content/repositories/snapshots/.error=
-https\://repository.jboss.org/nexus/content/groups/developer/.lastUpdated=1624327319046
+https\://repository.jboss.org/nexus/content/groups/developer/.lastUpdated=1624327901104
 https\://repository.jboss.org/nexus/content/groups/public/.error=
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1624327317817
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1624327899986
 https\://repository.jboss.org/nexus/content/groups/developer/.error=
-https\://raw.githubusercontent.com/shawkins/repo/master/.lastUpdated=1624327319549
+https\://raw.githubusercontent.com/shawkins/repo/master/.lastUpdated=1624327901627

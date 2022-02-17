@@ -1,12 +1,12 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jun 21 19:37:18 EDT 2021
-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1624318634984
-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1624318638475
+#Mon Jun 21 22:20:12 EDT 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1624328411382
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1624328411826
 https\://repository.apache.org/content/groups/snapshots/.error=
 https\://oss.sonatype.org/content/repositories/snapshots/.error=
-https\://repository.jboss.org/nexus/content/groups/developer/.lastUpdated=1624318638784
+https\://repository.jboss.org/nexus/content/groups/developer/.lastUpdated=1624328412125
 https\://repository.jboss.org/nexus/content/groups/public/.error=
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1624318634568
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1624328411155
 https\://repository.jboss.org/nexus/content/groups/developer/.error=
-https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/.error=Could not transfer artifact io.openmessaging.benchmark\:benchmark-framework\:jar\:sources\:0.0.1-SNAPSHOT from/to github (https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*)\: Access denied to https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/io/openmessaging/benchmark/benchmark-framework/0.0.1-SNAPSHOT/benchmark-framework-0.0.1-SNAPSHOT-sources.jar. Error code 401, 
-@default-github-https\://maven.pkg.github.com/bf2fc6cc711aee1a0c2a/*/.lastUpdated=1624318638860
+https\://raw.githubusercontent.com/shawkins/repo/master/.lastUpdated=1624328412244
+https\://raw.githubusercontent.com/shawkins/repo/master/.error=
